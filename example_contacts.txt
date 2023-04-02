@@ -1,0 +1,19 @@
+#sender line needed to indicate user who is receiving texts
+sender Justin
+
+#all contacts must be in the format
+#name +{country code}{number with area code}
+
+Ava +14065991188
+Sammy +12078313458
+Justin +12162884710
+Evan +17346804199
+Za +16509068961
+Avandre +12163924412
+Briana +15613395611
+Jhonatan +12162724103
+Nidhi +17013731792
+Tara +17074816683
+Dad +12169654142
+Mom +12162886115
+Vanessa +15138929891
